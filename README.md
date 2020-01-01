@@ -15,7 +15,7 @@
  2 | 12-12-19 | Dependency Management - Cocoapods & SPM | [Oğuz Öztürk](https://github.com/oguzveozturk) | [click](https://github.com/KodliOS/Dependency-Management)
  3 | 19-12-19 | HTTP History - REST API | [Berk Batuhan Şakar](https://github.com/berkbatuhans) | [click](https://github.com/KodliOS/KodliOS/tree/master/resources/03-HttpHistory)
  4 | 28-12-19 | GIT Usage | [Hüsamettin Eyibil](https://github.com/HusamettinEyibil) | [click](https://github.com/KodliOS/KodliOS/tree/master/resources/04-GitUsage)
- 5 | 31-12-19 | Basic Example for Protocol & Delegate Usage | [Oğuz Öztürk](https://github.com/oguzveozturk) | [click](https://github.com/KodliOS/ProtocolExample)
+ 5 | 31-12-19 | Protocol & Delegate | [Oğuz Öztürk](https://github.com/oguzveozturk) | [click](https://github.com/KodliOS/ProtocolExample)
 
 
 <!--
