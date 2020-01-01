@@ -17,6 +17,13 @@
  4 | 28-12-19 | GIT Usage | [Hüsamettin Eyibil](https://github.com/HusamettinEyibil) | [click](https://github.com/KodliOS/KodliOS/tree/master/resources/04-GitUsage)
  5 | 31-12-19 | Basic Example for Protocol & Delegate Usage | [Oğuz Öztürk](https://github.com/oguzveozturk) | [click](https://github.com/KodliOS/ProtocolExample)
 
+
+<!--
+- Update readme [ add your presentation to table ]
+- if you have presentation file add your file into resources with <number>-<presentation name>
+- if you have a project create a repo and push your project into repo [ don't forget to edit description of repo like this "<number>-An example of <presentation>" ]
+-->
+
 <!--
 <number> | <date> | <subject> | <host> | [click](.source/<folder-name>)
 -->
