@@ -29,7 +29,7 @@
 -->
 
 <!--
-Links of users
+Links of members
 [Berk Batuhan Şakar](https://github.com/berkbatuhans)
 [Husamettin Eyibil](https://github.com/HusamettinEyibil)
 [Oğuz Öztürk](https://github.com/oguzveozturk)
