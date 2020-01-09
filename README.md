@@ -17,6 +17,7 @@
 4 | 28-12-19 | GIT Usage | [Hüsamettin Eyibil](https://github.com/HusamettinEyibil) | [click](https://github.com/KodliOS/KodliOS/tree/master/resources/04-GitUsage)
 5 | 31-12-19 | Protocol & Delegate | [Oğuz Öztürk](https://github.com/oguzveozturk) | [click](https://github.com/KodliOS/ProtocolExample)
 6 | 02-01-20 | Basic Animations in iOS | [Yasin Akbaş](https://github.com/yasinkbas) | [click](https://github.com/KodliOS/AnimationSample)
+7 | 09-01-20 | Introduction to Design Patterns | [Oğuz Öztürk](https://github.com/oguzveozturk) | [click](https://github.com/KodliOS/SportsStore)
 
 <!--
 - Update readme [ add your presentation to table ]
