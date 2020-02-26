@@ -19,8 +19,9 @@
 6 | 02-01-20 | Basic Animations in iOS | [Yasin Akbaş](https://github.com/yasinkbas) | [click](https://github.com/KodliOS/AnimationSample)
 7 | 09-01-20 | Introduction to Design Patterns | [Oğuz Öztürk](https://github.com/oguzveozturk) | [click](https://github.com/KodliOS/SportsStore)
 8 | 15-01-20 | Create Own Pod | [Yasin Akbaş](https://github.com/yasinkbas) | [click](https://github.com/KodliOS/KodliOS/tree/master/resources/08-Cocoapod)
-9 | 16-01-20 | Singleton Pattern | [Tolga Taner](https://github.com/TolgaTaner) | 
+9 | 16-01-20 | Singleton Pattern | [Tolga Taner](https://github.com/TolgaTaner) |
 10 | 23-01-20 | Long Press Gesture | [Oğuz Öztürk](https://github.com/oguzveozturk) | [click](https://github.com/KodliOS/LongPressGestureRatingButtons)
+11 | 31-01-20 | Builder Pattern  | [Yasin Akbaş](https://github.com/yasinkbas) |  
 
 <!--
 - Update readme [ add your presentation to table ]
